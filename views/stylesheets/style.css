@@ -8,17 +8,13 @@ html, body {
 	height: 100%;
 }
 
-#fullbody {
-	min-height: 100%;
-	width: 100%;
-}
-
 #header {
 	font-family: limelight;
 	min-height: 20%;
 	/*background-color: #4F85AB;*/
 	background-color: #F8D631;
 	border: 2px solid black;
+	margin-top: 4px;
 }
 
 #content {
@@ -27,9 +23,10 @@ html, body {
 }
 
 #footer {
-	min-height: 10%;
+	min-height: 6%;
 	width: 100%;
 	margin-top: 24px !important;
+	margin-bottom: 4px;
 }
 
 #footer-content {
